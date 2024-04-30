@@ -1,5 +1,8 @@
-📸 Скриншот/Screenshot: ![изображение](https://github.com/nightlight1337/LampConfig/assets/141338158/0c5a0981-59ff-4ada-a701-0c3b09284155)
-![изображение](https://i.imgur.com/wk083l0.mp4)
+📸 Скриншот/Screenshot:
+
+![изображение](https://github.com/nightlight1337/LampConfig/assets/141338158/0c5a0981-59ff-4ada-a701-0c3b09284155)
+
+GIF: https://imgur.com/wk083l0
 
 
 RUS 🇷🇺
