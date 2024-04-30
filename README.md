@@ -4,6 +4,9 @@
 
 GIF: https://imgur.com/wk083l0
 
+ВАЖНОЕ УТОЧНЕНИЕ/IMPORTANT CLARIFICATION
+Не бойтесь, что там находится "resource.AddWorkshop("3104918953") -- LampConfig", это нужно для того, чтобы шрифт стабильно работал и загружался, это намного лучше, чем добавлять его через "resource.AddFile".
+Don't be afraid to have “resource.AddWorkshop(”3104918953“) -- LampConfig” in there, it's necessary for the font to work and load consistently, it's much better than adding it via “resource.AddFile”.
 
 RUS 🇷🇺
 =
